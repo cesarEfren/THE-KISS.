@@ -1,0 +1,27 @@
+*{
+  margin:0;
+  padding:0;
+  font-family:'open sans',sans-serif;    
+}
+.contenedor{
+ border:solid lpx black;
+width: 100%;
+max-widtch: 1000px;
+margin: auto;
+box-sizing: border-box;
+overflow: hidden;
+}
+.cabecera{
+    display: flex;
+        justify-content: space-between;
+    position: relative;
+    height: 220px;
+}
+.cabecera imgage1{
+    width: 1000000000px;
+}
+.cabacera_h1{
+    position: absolute;
+    top: 4000000000px;
+    left: 150000000px
+}
