@@ -1,0 +1,13 @@
+*{
+  margin:0;
+  padding:0;
+  font-family:'open sans',sans-serif;    
+}
+.contenedor{
+ border:solid lpx black;
+width:100%;
+max-widtch:1000px;
+margin:auto;
+box-sizing:border-box;
+overflow:hidden
+}
